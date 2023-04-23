@@ -1,0 +1,46 @@
+body {
+    background-image: url(Imagens/moto.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+color: white;
+text-align:left;
+margin-left: 80px;
+margin-top: -20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{font-size: 50;
+padding-top: 100px;
+}
+p{font-size: larger;
+    margin: 100;
+    padding-top: 60px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+opacity: 50px;    }
+h2{margin-left: 500px;}
+ul{
+    list-style: none;
+    margin-top: 50px;
+}
+li{
+    display: inline;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    padding: 5px;
+}
+ul li a.hover{
+    opacity: 0,8;
+}
+
+.botao{
+    text-decoration: none;
+    background-color: rgb(41, 75, 75);
+    padding: 10px 5px 10px 5px;
+    color: white;
+    border-radius: 10px;
+    }
+    .botao:hover{
+        background-color: brown;
+        }
